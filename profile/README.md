@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/DreamBrookLabs/.github/profile/asset/dreambrook-logo.png" alt="DreamBrook Labs Logo" width="200"/>
+  <img src="https://github.com/DreamBrookLabs/.github/profile/asset/DreamBrook_labs_black.png" alt="DreamBrook Labs Logo" width="200"/>
   <h1>DreamBrook Labs 梦溪数智</h1>
   <p><em>Advancing Scientific Literacy in Agentic AI Systems</em></p>
 
