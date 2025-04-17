@@ -19,7 +19,7 @@
 
 ## 🌊 About DreamBrook Labs
 
-At DreamBrook Labs, we are pioneering the intersection of artificial intelligence and scientific understanding. Our name reflects our philosophy: like a stream of dreams flowing with knowledge and innovation, we are carving new pathways in the landscape of AI research.
+At DreamBrook Labs, we are pioneering the intersection of artificial intelligence and scientific understanding. 
 
 ## 🔮 <a name="vision"></a>Vision
 
