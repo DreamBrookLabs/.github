@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/fa18f18f-d6d7-403f-bb66-4afe30da0aa2" alt="DreamBrook Labs Logo" width="500"/>
-  <p><em>Advancing Scientific Literacy in Agentic AI Systems</em></p>
+  <p><em>Advancing Scientific Literacy in Collaborative AI Systems</em></p>
   <p>
     <a href="#vision">Vision</a> •
     <a href="#mission">Mission</a> •
